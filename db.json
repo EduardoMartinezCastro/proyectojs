@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Aelita Hopper",
+      "email": "aelita@lyoko.com",
+      "telefono": "2234423211",
+      "empresa": "Lyoko",
+      "id": 2
+    },
+    {
+      "nombre": "Ulrich Stern",
+      "email": "ulrich@lyoko.com",
+      "telefono": "1770234844",
+      "empresa": "Lyoko",
+      "id": 3
+    },
+    {
+      "nombre": "Jeremy Belpois",
+      "email": "jeremy@lyoko.com",
+      "telefono": "3344558899",
+      "empresa": "Lyoko",
+      "id": 4
+    },
+    {
+      "nombre": "Odd De Larovia",
+      "email": "odd@lyoko.com",
+      "telefono": "2233445500",
+      "empresa": "Lyoko",
+      "id": 6
+    }
+  ]
+}
