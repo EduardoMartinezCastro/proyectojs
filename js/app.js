@@ -42,7 +42,7 @@ import { obtenerClientes, eliminarCliente } from './API.js';
             const confirmar = confirm('¿Deseas eliminar este cliente?');
 
             if(confirmar) {
-                await eliminarCliente(clienteId)
+                await eliminarCliente(clienteId);
             }
 
         }

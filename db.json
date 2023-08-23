@@ -3,7 +3,7 @@
     {
       "nombre": "Aelita Hopper",
       "email": "aelita@lyoko.com",
-      "telefono": "2234423211",
+      "telefono": "123456789",
       "empresa": "Lyoko",
       "id": 2
     },
@@ -24,9 +24,16 @@
     {
       "nombre": "Odd De Larovia",
       "email": "odd@lyoko.com",
-      "telefono": "2233445500",
+      "telefono": "2233445100",
       "empresa": "Lyoko",
       "id": 6
+    },
+    {
+      "nombre": "Lolo",
+      "email": "lolo@lolo.com",
+      "telefono": "12344552321",
+      "empresa": "lolos S.A de C.V",
+      "id": 7
     }
   ]
 }
